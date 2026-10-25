@@ -1,0 +1,14 @@
+{
+  "source": "Project-Limelight/config/trust/roster.json",
+  "note": "Only labels and public node IDs; no SSH keys or secrets",
+  "labels": {
+    "9a8512f0c00e": "Limenode1",
+    "32af66b77e9c": "Limenode2",
+    "32dbd2292662": "Limenode3",
+    "385dc3c5fdef": "Limenode5",
+    "97e5790e2640": "Limenode6",
+    "cc1ae7d74b53": "Limenode8",
+    "d4d056b8b1c4": "Limenode9",
+    "79697fab6ed4": "Limenode10"
+  }
+}
